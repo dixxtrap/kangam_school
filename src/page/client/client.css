@@ -1,0 +1,6 @@
+.playist .current {
+  @apply .glace;
+}
+.before-content::before {
+  content: "";
+}
